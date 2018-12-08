@@ -1,4 +1,6 @@
 #büyük harfteki kelimeyi küçük harfe çevirir
+import os
+os.system("clear")
 import author
 author
 print("")
