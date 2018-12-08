@@ -1,4 +1,6 @@
 #küçük harfteki kelimeyi büyük harfe çevirir
+import os
+os.system("clear")
 import author
 author
 kharf ="qazwsxedcrfvtgbyhnujmıköolçpşğiü"
